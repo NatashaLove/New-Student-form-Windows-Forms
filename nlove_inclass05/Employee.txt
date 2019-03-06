@@ -1,0 +1,3 @@
+1000,John,J,Jingle,STAFF,29,0
+1001,Jenny,B,Jones,STAFF,40,0
+1002,Chris,,Smith,FACULTY,27,0

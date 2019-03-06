@@ -1,0 +1,7 @@
+100,Greg,T,Morris,FRESHMAN,40,0
+101,Jimmy,J,Hendrix,SOPHOMORE,19,3.58
+102,Carly,A,Simon,FRESHMAN,18,2.20
+103,Chris,C,Kringle,SENIOR,99,4.00
+104,Johnny,B,Good,JUNIOR,28,2.00
+105,Jessie,,Humperdink,FRESHMAN,15,2.50
+110,Susie,A,Lasse,FRESHMAN,21,0
