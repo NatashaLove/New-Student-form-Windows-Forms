@@ -20,6 +20,12 @@ namespace Example_GUI
 
             string id = StudentID;
 
+            //opens window with browser for files/folders to browse for a file
+            OpenFileDialog ofd = new OpenFileDialog();
+            ofd.ShowDialog();
+
+            string fileName = ofd.FileName;// assigns the path to the chosen file
+
             FileStream fs = new FileStream("..\\..\\Student.txt", FileMode.Open, FileAccess.Read);
             StreamReader sr = new StreamReader(fs);
 
